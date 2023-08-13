@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1691897476461,
+      "tag": "0000_ambiguous_shiver_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1691899068449,
+      "tag": "0001_yielding_killer_shrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1691899240575,
+      "tag": "0002_pale_guardian",
+      "breakpoints": true
+    }
+  ]
+}
